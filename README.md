@@ -45,16 +45,19 @@ Dataset was created by fetching titles of different **subreddits** relating to 7
 - travel & lifestyle
 
 ---
-To refresh the dataset with new headlines, run the script in dir ``twc/data/``:
+To refresh the dataset with the latest subreddit posts, run the script in dir ``twc/data/``:
 
 ``` bash
-$ python3 test.py
+$ python3 fetch_data.py
 
 ```
 To train the model again in ``twc/``
 ```bash
 $ python3 train.py
 
+To test the model again in ``twc/``
+```bash
+$ python3 test.py
 
 ```
 To run the script
