@@ -1,4 +1,4 @@
-# region_based_tweet_classifier
+# Region_based_tweet_classifier
 Classify tweets from 5 different regions classify them into one of the 7 main topic categories and find out the topic that is trending the most in each region 
 
 Python Library to fetch tweets CNN tweets from 5 different regions Asia, Africa, America, Europe and Australia along with the CNN homepage and classify those fetched tweets into 7 different topics and find out which topic is most popular and trending now in each region.
